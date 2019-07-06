@@ -1,6 +1,6 @@
 # hello-world
-thus is deepanshu singh
-a git hub noob
+this is deepanshu singh
+a github noob
 presenting myself as starting developer
-i and type on keyboard
-organize well and maintain
+i can type on keyboard
+organize well and maintain a website
